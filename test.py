@@ -6,4 +6,4 @@ def even(n):
             print("odd")
  
 target=even(3)
-print(target)
+print(target) #tells even or odd
